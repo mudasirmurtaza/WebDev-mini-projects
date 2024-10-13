@@ -1,33 +1,35 @@
-# To-Do-List
+# Simple Calculator
 
-Welcome to the **To-Do-List** project! This is a simple web-based application designed to help you manage and keep track of your daily tasks.
-
-## Table of Contents
-
-- Features
-- Technologies Used
-- Usage
+This is a simple web-based calculator built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
 
-- Add tasks to your to-do list.
-- Remove tasks once completed.
-- Interactive UI with real-time updates.
-- Dark theme with modern, aesthetic design.
-- Responsive and user-friendly.
+- User-friendly interface
+- Supports basic arithmetic operations: addition, subtraction, multiplication, division
+- Clear button to reset the calculator
+- Responsive design for mobile and desktop
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Google Fonts (Poppins)
-- FontAwesome (for icons)
+- **HTML**: Structure of the calculator
+- **CSS**: Styling and layout
+- **JavaScript**: Functionality and event handling
 
-## Usage
+## How to Use
 
-- **Add Tasks**: Type your task in the input field and click the "Add" button or press Enter to add a new task to the list.
-- **Delete Tasks**: Click the red "X" icon next to any task to remove it from the list.
-- The application uses a dark aesthetic theme to enhance visibility and provide a modern feel.
+1. Clone the repository or download the files.
+2. Open `index.html` in your web browser.
+3. Use the calculator buttons to input numbers and operations.
+4. Press `=` to calculate the result.
+5. Use `C` to clear the display.
+
+## Installation
+
+No installation is required. Simply open the `index.html` file in your web browser.
+
+
+## Contributing
+
+Feel free to submit issues and pull requests to improve this project.
 
 ---
